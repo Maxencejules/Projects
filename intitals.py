@@ -1,4 +1,4 @@
-#Maxence Jules
+# Maxence Jules
 # Fun fact: I made this program
 print("M       M    J J J J J")
 print("MM     MM        J")
