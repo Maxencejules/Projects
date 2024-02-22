@@ -1,5 +1,5 @@
 # Maxence Jules
-# Fun fact: I made this program
+# My intitals
 print("M       M    J J J J J")
 print("MM     MM        J")
 print("MM     MM        J")
